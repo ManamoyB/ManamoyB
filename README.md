@@ -22,10 +22,7 @@
 **Languages and Tools:**
 
 <p>
-  <a href="https://github.com/ManamoyB">
-    <img width="55%" align="right" alt="Manamoy's github stats"
-      src="https://github-readme-stats.vercel.app/api?username=ManamoyB&show_icons=true&hide_border=true" />
-  </a>
+  
 
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <br />
